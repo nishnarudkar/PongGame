@@ -54,8 +54,8 @@ python main.py
 ```
 
 ## Gameplay Preview
-![Pong Game Demo](https://via.placeholder.com/800x600?text=Pong+Game+Preview)  
-_Add a screenshot or GIF of your game here_
+![Pong Game Demo](https://github.com/nishnarudkar/PongGame/blob/main/Game_Preview.png)  
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
